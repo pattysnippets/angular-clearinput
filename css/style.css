@@ -1,0 +1,23 @@
+.form-group {
+  position: relative;
+}
+
+.btn-clear {
+    background: #ccc;
+    font-size: 10px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    height: 21px;
+    width: 21px;
+    line-height: 20px;
+    position: absolute;
+    right: 15px;
+    bottom: 7px;
+    z-index: 9999;
+    border-radius: 50%;
+    display: none;
+    text-align: center;
+    padding-left: 1px;
+    padding-top: 1px;
+}
