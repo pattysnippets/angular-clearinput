@@ -1,7 +1,7 @@
 /**
  * Created by Joyce Cam on 30/12/2014.
  *
- * Simple and easy-to-implement angular read more directive.
+ * Simple and easy-to-implement angular clear inpur directive.
  *
  */
 
