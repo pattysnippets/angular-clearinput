@@ -14,10 +14,10 @@ Simple and easy-to-implement angular clear input directive.
 
 #### Markup  
 
-     <div class="form-group">
-    <label>Name:</label>
+    <div class="form-group">
+      <label>Name:</label>
       <input type="text" class="form-control" placeholder="Type text in here" ng-model="name" clear-input   >
-    </div>
+   </div>
  
 
  
