@@ -5,9 +5,9 @@
  *
  */
 
-var readMore = angular.module('clearInput', []);
+var clearInput = angular.module('clearInput', []);
 
-readMore.directive('clearInput', function () {
+clearInput.directive('clearInput', function () {
 		//<span class="ls-btn-clear lsicon-cross" title="Click to clear text" ></span>
 		return {
 			restrict: 'A',
